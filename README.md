@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**kaio6fellipe/kaio6fellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou líder de TI de forma bem generalista (Segurança, Sistemas, Infraestrutura e Serviços de TI)
+- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando o Python
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/kaio6fellipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio6fellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
+## 
