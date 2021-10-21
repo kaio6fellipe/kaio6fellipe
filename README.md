@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente sou líder de TI de forma bem generalista (Segurança, Sistemas, Infraestrutura e Serviços de TI)
-- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando o Python
+- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando o Python e C
 - 😄 Pronomes: ele/dele
 - 🤫 Todos os meus repositórios são privados porque não estava afim de incluir minhas chaves de APIs nas variáveis de ambiente do meu desktop
 
@@ -9,6 +9,18 @@
   <a href="https://github.com/kaio6fellipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio6fellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Kaio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Kaio-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Kaio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
 </div>
   
 ## 
