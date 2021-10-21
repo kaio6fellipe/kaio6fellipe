@@ -10,3 +10,7 @@
 </div>
   
 ## 
+
+<div>
+  ![Snake animation](https://github.com/kaio6fellipe/kaio6fellipe/blob/output/github-contribution-grid-snake.svg)
+</div>
