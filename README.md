@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente sou líder de TI de forma bem generalista (Segurança, Sistemas, Infraestrutura e Serviços de TI)
-- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando o Python e C
+- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando Python
 - 😄 Pronomes: ele/dele
 - 🤫 Todos os meus repositórios são privados porque não estava afim de incluir minhas chaves de APIs nas variáveis de ambiente do meu desktop
 
