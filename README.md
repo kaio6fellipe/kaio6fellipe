@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou líder de TI na Safra Rica (Segurança, Sistemas, Infraestrutura e Serviços de TI)
 - 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando Python para tudo
 - 😄 Pronomes: ele/dele
-- 🤫 Todos os meus repositórios são privados porque minhas chaves de API estão explicitamente inclusas em formato de texto
+- 🤫 Todos os meus repositórios são privados porque minhas chaves de API estão inclusas de forma explícita 
 
 <div align="left">
   <a href="https://github.com/kaio6fellipe">
