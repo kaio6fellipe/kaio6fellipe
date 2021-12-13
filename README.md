@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 - 🤫 Todos os meus repositórios são privados porque minhas chaves de API estão inclusas de forma explícita em alguns commits
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/kaio6fellipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio6fellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio6fellipe&layout=compact&langs_count=7&theme=dark"/>  
