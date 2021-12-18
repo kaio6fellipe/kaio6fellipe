@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente sou líder de TI na Safra Rica (Segurança, Sistemas, Infraestrutura e Serviços de TI)
-- 🌱 Estudando segurança da informação (red team) e data science, geralmente utilizando Python para tudo
+- 🌱 CND em andamento... Estudando também: segurança da informação (red team) e data science, geralmente utilizando Python para tudo
 - 😄 Pronomes: ele/dele
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
 
