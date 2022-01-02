@@ -21,9 +21,9 @@
   <img align="center" alt="Kaio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Kaio-API" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/pngwing.com.svg">
 </div>
-  
+
 ## 
-  
+
 <div>
     <a href="https://instagram.com/kaio.fellipe.14" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:kaio6fellipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
