@@ -31,3 +31,7 @@
 </div>
   
 ![Snake animation](https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/output/github-contribution-grid-snake.svg)
+
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
