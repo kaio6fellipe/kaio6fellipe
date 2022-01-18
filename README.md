@@ -1,8 +1,8 @@
-### Olá! 👋
+### Hi! Welcome to my profile! 👋
 
-- 🔭 Atualmente sou líder de TI na Safra Rica (Segurança, Sistemas, Infraestrutura e Serviços de TI)
-- 🌱 CND em andamento... Estudando também: segurança da informação (red team) e data science, geralmente utilizando Python para tudo
-- 😄 Pronomes: ele/dele
+- 🔭 I am currently the IT leader at Safra Rica (Security, Systems, Infrastructure and IT Services)
+- 🌱 CND in progress... Also studying: information security (red team) and DevOps, generally using Python for everything
+- 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
 
 <div align="center">
