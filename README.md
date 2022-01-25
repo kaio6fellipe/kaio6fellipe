@@ -1,5 +1,4 @@
-### Hi! Welcome to my profile! 
-![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
+## Hi! Welcome to my profile! ![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
 
 - 🔭 I am currently the IT leader at Safra Rica (Security, Systems, Infrastructure and IT Services)
 - 🌱 CND in progress... Also studying: information security (red team) and DevOps, generally using Python for everything
