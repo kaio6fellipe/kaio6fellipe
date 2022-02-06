@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile! ![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
 
-- 🔭 I am currently the IT leader at Safra Rica (Security, Systems, Infrastructure and IT Services)
+- 🔭 I am currently at [Dafiti Group](https://github.com/dafiti-group) as Sysadmin
 - 🌱 CND in progress... Also studying: information security (red team) and DevOps, generally using Python for everything
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
