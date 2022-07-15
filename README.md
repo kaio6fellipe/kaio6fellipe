@@ -19,12 +19,15 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kaio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/sql.svg">
   <img align="center" alt="Kaio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Kaio-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Kaio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Kaio-API" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/pngwing.com.svg">
+  <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Kaio-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="Kaio-ArgoCD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
+  <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Kaio-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
 
 ## 
