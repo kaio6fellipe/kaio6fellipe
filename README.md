@@ -28,6 +28,8 @@
   <img align="center" alt="Kaio-ArgoCD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
   <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Kaio-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Kaio-Zabbix" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/zabbix_logo_icon_167937.svg">
+  <img align="center" alt="Kaio-ELK" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/elastic-stack.svg">
 </div>
 
 ## 
