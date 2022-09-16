@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/kaio6fellipe) ![Snake Game](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/cobrinha.yml/badge.svg)
 
 - 🔭 I am currently at [Dafiti Group](https://github.com/dafiti-group) as SysAdmin
-- 🌱 CND in progress... Also studying: information security (red team) and DevOps, generally using Python for everything
+- 🌱 CND in progress... Also studying: AWS, Terraform, Ansible, K8S and Docker
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
 
