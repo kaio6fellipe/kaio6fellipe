@@ -19,7 +19,7 @@
   <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio6fellipe&theme=dark"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="justify"><br>
   <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaio-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
