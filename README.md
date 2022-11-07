@@ -2,19 +2,24 @@
 
 ![Profile views](https://gpvc.arturio.dev/kaio6fellipe) ![Snake Game](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/cobrinha.yml/badge.svg)
 
-- 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
-- 🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker (Take a look at my [lab](https://github.com/kaio6fellipe/terraform-devops))
-- 😄 Pronouns: he/him
-- 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
+🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
 
-<div align="center">
+🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker (Take a look at my [lab](https://github.com/kaio6fellipe/terraform-devops))
+
+😄 Pronouns: he/him
+
+🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
+
+##
+
+<div align="justify">
   <a href="https://github.com/kaio6fellipe">
   <img height="127em" src="https://github-profile-trophy.vercel.app/?username=kaio6fellipe&theme=onedark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaio6fellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio6fellipe&layout=compact&langs_count=7&theme=dark"/>  
 </div>
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/kaio6fellipe">
   <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio6fellipe&theme=dark"/>
 </div>
