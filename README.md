@@ -12,14 +12,14 @@
 
 ##
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/kaio6fellipe">
   <img height="127em" src="https://github-profile-trophy.vercel.app/?username=kaio6fellipe&theme=onedark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaio6fellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio6fellipe&layout=compact&langs_count=7&theme=dark"/>  
 </div>
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/kaio6fellipe">
   <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio6fellipe&theme=dark"/>
 </div>
