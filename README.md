@@ -1,17 +1,22 @@
 ### Hi! Welcome to my profile!
 
 <div align="justify">
-    <a href = "mailto:kaio6fellipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kaio-fellipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:kaio6fellipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kaio-fellipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/kaio6fellipe"><img src="https://img.shields.io/github/followers/kaio6fellipe?label=Follow%20me&style=social" target="_blank"></a>
 </div>
 
 * * *
 
-![Profile views](https://gpvc.arturio.dev/kaio6fellipe) ![Snake Game](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/cobrinha.yml/badge.svg)
+![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
+![Snake Game](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/cobrinha.yml/badge.svg)
+[![Star this repo](https://img.shields.io/github/stars/kaio6fellipe/kaio6fellipe?label=Star%20this%20repo&style=social)](https://github.com/kaio6fellilpe/kaio6fellipe)
+[![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
 
 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
 
-🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker (Take a look at my [lab](https://github.com/kaio6fellipe/terraform-devops))
+🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker. Take a look at my Platform (Down for 95% of the time to save some money :money_with_wings:): 
+- [![Platform lab](https://img.shields.io/uptimerobot/status/m793102244-22a4dd9f6f19569f82afa63a?label=Platform%20Lab&logo=terraform&style=plastic)](https://github.com/kaio6fellipe/terraform-devops)
 
 😄 Pronouns: he/him
 
