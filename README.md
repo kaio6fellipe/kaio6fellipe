@@ -15,7 +15,7 @@
 
 - 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
 - 🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker. Take a look at my Platform: 
-  - Down for 95% of the time to save some money :money_with_wings:
+  - Down for 99% of the time to save some money :money_with_wings:
   - [![Platform lab](https://img.shields.io/uptimerobot/status/m793102244-22a4dd9f6f19569f82afa63a?label=Platform%20Lab&logo=terraform&style=plastic)](https://github.com/kaio6fellipe/terraform-devops)
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
