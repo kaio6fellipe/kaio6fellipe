@@ -89,6 +89,11 @@
 
 <div align="center">
   <a href="https://github.com/kaio6fellipe">
-  <img src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/output/github-contribution-grid-snake.svg"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaio6fellipe"/>
+  <img height="175em" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/output/github-contribution-grid-snake.svg"/>
+</div>
+    
+<div align="center">
+  <a href="https://github.com/kaio6fellipe">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaio6fellipe&theme=github_dark"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaio6fellipe&theme=github_dark&utcOffset=8"/> 
 </div>
