@@ -8,7 +8,7 @@
 
 * * *
 
-![Profile views](https://gpvc.arturio.dev/kaio6fellipe) 
+![](https://gpvc.arturio.dev/kaio6fellipe) 
 ![Snake Game](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/cobrinha.yml/badge.svg)
 [![Star this repo](https://img.shields.io/github/stars/kaio6fellipe/kaio6fellipe?label=Star%20this%20repo&style=social)](https://github.com/kaio6fellilpe/kaio6fellipe)
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
