@@ -21,6 +21,7 @@
   - [![Platform lab](https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform%20Lab&logo=terraform&style=plastic)](https://github.com/kaio6fellipe/terraform-devops)
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
+
 * * *
 
 <div align="center">
@@ -35,8 +36,8 @@
   <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio6fellipe&theme=dark"/>
 </div>
 
-* * *    
-    
+* * *
+
 <div style="display: inline_block" align="center"><br>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img align="center" alt="Kaio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
@@ -95,7 +96,7 @@
 
 </div>
 
-* * * 
+* * *
 
 <div align="center">
   <a href="https://github.com/kaio6fellipe">
