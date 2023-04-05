@@ -97,5 +97,5 @@
 <div align="center">
   <a href="https://github.com/kaio6fellipe">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaio6fellipe&theme=github_dark"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaio6fellipe&theme=github_dark&utcOffset=8"/> 
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaio6fellipe&theme=github_dark&utcOffset=-3"/> 
 </div>
