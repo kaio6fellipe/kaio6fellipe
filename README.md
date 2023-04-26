@@ -21,7 +21,6 @@
   - [![Platform lab](https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform%20Lab&logo=terraform&style=plastic)](https://stats.uptimerobot.com/oklm0fDgvD)
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
-https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform
 * * *
 
 <div align="center">
