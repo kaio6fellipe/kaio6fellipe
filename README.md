@@ -15,12 +15,13 @@
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
 
 - 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
-- 🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker. Take a look at my Platform: 
+- 🌱 Studying: GCP, AWS, Terraform, Ansible, K8S and Docker.
+- 🛠️ Take a look at my Platform:
   - Down for 99% of the time to save some money :money_with_wings:
-  - [![Platform lab](https://img.shields.io/uptimerobot/status/m793102244-22a4dd9f6f19569f82afa63a?label=Platform%20Lab&logo=terraform&style=plastic)](https://github.com/kaio6fellipe/terraform-devops)
+  - [![Platform lab](https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform%20Lab&logo=terraform&style=plastic)](https://stats.uptimerobot.com/oklm0fDgvD)
 - 😄 Pronouns: he/him
 - 🤫 [GitHub Pages](https://kaio6fellipe.github.io/)
-
+https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform
 * * *
 
 <div align="center">
