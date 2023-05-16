@@ -46,12 +46,14 @@
     <img align="center" alt="Kaio-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></a>
   <a href="https://www.terraform.io/">
     <img align="center" alt="Kaio-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></a>
+  <a href="https://terramate.io/">
+    <img align="center" alt="Kaio-Terramate" height="30" width="40" src="https://raw.githubusercontent.com/mineiros-io/brand/16aa786a3cd6d0ae2fb89ed756f96c695d0f88e1/terramate-logo.svg"></a>
   <a href="https://www.packer.io/">
     <img align="center" alt="Kaio-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg"></a>
   <a href="https://www.ansible.com/">
     <img align="center" alt="Kaio-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"></a>
   <a href="https://grafana.com/grafana/">
-    <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"></a>
+    <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></a>
   <a href="https://grafana.com/oss/loki/">
     <img align="center" alt="Kaio-Loki" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/logo-loki.svg"></a>
   <a href="https://grafana.com/oss/mimir/">
@@ -63,7 +65,7 @@
   <a href="https://www.zabbix.com/">
     <img align="center" alt="Kaio-Zabbix" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/zabbix_logo_icon_167937.svg"></a>
   <a href="https://aws.amazon.com/pt/">
-    <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></a>
+    <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></a>
   <a href="https://cloud.google.com/">
     <img align="center" alt="Kaio-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
   <a href="https://kubernetes.io/">  
@@ -82,6 +84,8 @@
     <img align="center" alt="Kaio-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></a>
   <a href="https://github.com/about">
     <img align="center" alt="Kaio-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>
+  <a href="https://github.com/features/actions">
+    <img align="center" alt="Kaio-GitActions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"></a>
   <a href="https://en.wikipedia.org/wiki/API">
     <img align="center" alt="Kaio-API" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/pngwing.com.svg"></a>
   <a href="https://www.atlassian.com/software/jira">
@@ -98,9 +102,11 @@
   <img height="175em" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/output/github-contribution-grid-snake.svg"/>
   <img height="520em" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/profile-3d-contrib/profile-night-green.svg"/>
 </div>
-    
+
 <div align="center">
   <a href="https://github.com/kaio6fellipe">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaio6fellipe&theme=github_dark"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaio6fellipe&theme=github_dark&utcOffset=-3"/> 
 </div>
+
+* * *
