@@ -55,15 +55,15 @@
   <a href="https://grafana.com/grafana/">
     <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></a>
   <a href="https://grafana.com/oss/loki/">
-    <img align="center" alt="Kaio-Loki" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/logo-loki.svg"></a>
+    <img align="center" alt="Kaio-Loki" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-loki.svg"></a>
   <a href="https://grafana.com/oss/mimir/">
-    <img align="center" alt="Kaio-Mimir" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/logo-mimir.svg"></a>
+    <img align="center" alt="Kaio-Mimir" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-mimir.svg"></a>
   <a href="https://prometheus.io/">
     <img align="center" alt="Kaio-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"></a>
   <a href="https://www.elastic.co/pt/elastic-stack/">
-    <img align="center" alt="Kaio-ELK" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/elastic-stack.svg"></a>
+    <img align="center" alt="Kaio-ELK" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/elastic-stack.svg"></a>
   <a href="https://www.zabbix.com/">
-    <img align="center" alt="Kaio-Zabbix" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/zabbix_logo_icon_167937.svg"></a>
+    <img align="center" alt="Kaio-Zabbix" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/zabbix.svg"></a>
   <a href="https://aws.amazon.com/pt/">
     <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></a>
   <a href="https://cloud.google.com/">
@@ -77,7 +77,7 @@
   <a href="https://www.nginx.com/">
     <img align="center" alt="Kaio-NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></a>
   <a href="https://pt.wikipedia.org/wiki/SQL">
-    <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/sql.svg"></a>
+    <img align="center" alt="Kaio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/sql.svg"></a>
   <a href="https://git-scm.com/">
     <img align="center" alt="Kaio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></a>
   <a href="https://about.gitlab.com/">
@@ -87,7 +87,7 @@
   <a href="https://github.com/features/actions">
     <img align="center" alt="Kaio-GitActions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"></a>
   <a href="https://en.wikipedia.org/wiki/API">
-    <img align="center" alt="Kaio-API" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/pngwing.com.svg"></a>
+    <img align="center" alt="Kaio-API" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/api.svg"></a>
   <a href="https://www.atlassian.com/software/jira">
     <img align="center" alt="Kaio-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"></a>
   <a href="https://slack.com/intl/pt-br/">
