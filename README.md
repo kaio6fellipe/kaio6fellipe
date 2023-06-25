@@ -15,7 +15,7 @@
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
 
 - 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Senior DevOps Engineer
-- 🌱 Studying: GCP, AWS, Terraform, Crossplane, ArgoCD, K8S and Docker.
+- 🌱 Studying: GCP, AWS, Terraform, ArgoCD, K8S and Grafana Observability Stack.
 - 🛠️ Take a look at my GitOps Platform:
   - Down for 99% of the time to save some money :money_with_wings:
   - [![Platform lab](https://img.shields.io/uptimerobot/status/m794238146-c9373c4202f6118fe629cdb1?label=Platform%20Lab&logo=terraform&style=plastic)](https://github.com/kaio6fellipe/terraform-devops)
@@ -53,14 +53,22 @@
     <img align="center" alt="Kaio-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg"></a>
   <a href="https://www.ansible.com/">
     <img align="center" alt="Kaio-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"></a>
-  <a href="https://grafana.com/grafana/">
-    <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></a>
+  <a href="https://www.crossplane.io/">
+    <img align="center" alt="Kaio-Crossplane" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-crossplane.svg"></a>
   <a href="https://grafana.com/oss/loki/">
     <img align="center" alt="Kaio-Loki" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-loki.svg"></a>
+  <a href="https://grafana.com/grafana/">
+    <img align="center" alt="Kaio-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></a>
+  <a href="https://grafana.com/oss/tempo/">
+    <img align="center" alt="Kaio-Tempo" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-tempo.svg"></a>
   <a href="https://grafana.com/oss/mimir/">
     <img align="center" alt="Kaio-Mimir" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-mimir.svg"></a>
+  <a href="https://grafana.com/oss/agent/">
+    <img align="center" alt="Kaio-Agent" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-agent.svg"></a>
   <a href="https://prometheus.io/">
     <img align="center" alt="Kaio-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"></a>
+  <a href="https://instana.com/">
+    <img align="center" alt="Kaio-Instana" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/png/logo-instana.png"></a>
   <a href="https://www.elastic.co/pt/elastic-stack/">
     <img align="center" alt="Kaio-ELK" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/elastic-stack.svg"></a>
   <a href="https://www.zabbix.com/">
@@ -71,8 +79,12 @@
     <img align="center" alt="Kaio-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
   <a href="https://kubernetes.io/">  
     <img align="center" alt="Kaio-K8S" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
+  <a href="https://helm.sh/">
+    <img align="center" alt="Kaio-Helm" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-helm.svg"></a>
   <a href="https://argo-cd.readthedocs.io/en/stable/">
     <img align="center" alt="Kaio-ArgoCD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg"></a>
+  <a href="https://external-secrets.io/latest/">
+    <img align="center" alt="Kaio-ExternalSecrets" height="30" width="40" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/logo-eso.svg"></a>
   <a href="https://www.docker.com/">
     <img align="center" alt="Kaio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
   <a href="https://www.nginx.com/">
