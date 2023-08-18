@@ -112,7 +112,6 @@
 
 <div align="center">
   <a href="https://github.com/kaio6fellipe">
-  <img height="175em" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/output/github-contribution-grid-snake.svg"/>
   <img height="520em" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/profile-3d-contrib/profile-night-green.svg"/>
 </div>
 
