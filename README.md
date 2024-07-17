@@ -73,7 +73,7 @@
   <a href="https://www.zabbix.com/">
     <img align="center" alt="Kaio-Zabbix" height="30" width="30" src="https://raw.githubusercontent.com/kaio6fellipe/kaio6fellipe/main/svg/zabbix.svg"></a>
   <a href="https://aws.amazon.com/pt/">
-    <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></a>
+    <img align="center" alt="Kaio-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
   <a href="https://cloud.google.com/">
     <img align="center" alt="Kaio-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
   <a href="https://kubernetes.io/">  
