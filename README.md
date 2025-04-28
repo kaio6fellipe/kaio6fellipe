@@ -14,7 +14,7 @@
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
 
 - 🔭 I am currently at [Neoway](https://github.com/NeowayLabs) as a Specialist Platform Engineer
-- 🌱 Studying: GCP, AWS, Terraform, ArgoCD, K8S and Grafana Observability Stack.
+- 🌱 Studying: GCP, Infra as Code and Open Source Observability.
 
 * * *
 
