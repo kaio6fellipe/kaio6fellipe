@@ -8,7 +8,6 @@
 
 * * *
 
-![Profile Views](https://badges.pufler.dev/visits/kaio6fellipe/kaio6fellipe) 
 ![3D Profile](https://github.com/kaio6fellipe/kaio6fellipe/actions/workflows/profile-3d.yml/badge.svg)
 [![Star this repo](https://img.shields.io/github/stars/kaio6fellipe/kaio6fellipe?label=Star%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe)
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
