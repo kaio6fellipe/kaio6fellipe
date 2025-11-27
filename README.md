@@ -23,10 +23,10 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio6fellipe&layout=compact&langs_count=7&theme=dark"/>  
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/kaio6fellipe">
   <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio6fellipe&theme=dark"/>
-</div>
+</div> -->
 
 * * *
 
