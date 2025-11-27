@@ -13,7 +13,7 @@
 [![Fork this repo](https://img.shields.io/github/forks/kaio6fellipe/kaio6fellipe?label=Fork%20this%20repo&style=social)](https://github.com/kaio6fellipe/kaio6fellipe/fork)
 
 - 🔭 I am currently at [Turno.com](https://turno.com/) as a Platform Engineer
-- 🌱 Studying: GCP, Infra as Code and Open Source Observability.
+- 🌱 Studying: Kubernetes, GCP, Infra as Code and Open Source Observability.
 
 * * *
 
