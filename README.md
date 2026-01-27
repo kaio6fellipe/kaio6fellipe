@@ -30,6 +30,7 @@
 
 <div align="center">
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/5098bbce-fe91-4c9b-9c6a-98e33a739740" title="Kubestronaut"><img src="https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9030265b-2660-4dbd-b5b9-5c09fdb87423" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1d6313db-bc79-496f-bc2d-47bf096e13ca" title="KCSA: Kubernetes and Cloud Native Security Associate"><img src="https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/49785a12-6e24-476b-8ab6-5b151dc2dafa" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
