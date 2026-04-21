@@ -19,14 +19,14 @@ jobs:
       - name: Update badges from Credly
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: kaio.fellipe
+          CREDLY_USER: ${{ github.actor }}
           NUMBER_LAST_BADGES: 10
 
       - name: Pull latest (badge action pushes via API)
         run: |
           git pull --rebase origin ${{ github.ref_name }}
 
-      - name: Collapse badge layout to single line
+      - name: Wrap badges in <td> and collapse whitespace
         run: |
           python3 <<'EOF'
           import re
@@ -36,18 +36,27 @@ jobs:
 
           pattern = r'(<!--START_SECTION:badges-->)(.*?)(<!--END_SECTION:badges-->)'
 
-          def collapse(m):
-              inner = re.sub(r'\s+', ' ', m.group(2)).strip()
+          def transform(m):
+              inner = m.group(2)
+              # Wrap each <a>...</a> in <td>...</td>
+              inner = re.sub(
+                  r'(<a\s[^>]*>.*?</a>)',
+                  r'<td>\1</td>',
+                  inner,
+                  flags=re.DOTALL,
+              )
+              # Collapse all whitespace (newlines included) to single spaces
+              inner = re.sub(r'\s+', ' ', inner).strip()
               return f"{m.group(1)}\n{inner}\n{m.group(3)}"
 
-          new_content = re.sub(pattern, collapse, content, flags=re.DOTALL)
+          new_content = re.sub(pattern, transform, content, flags=re.DOTALL)
 
           if new_content != content:
               with open('README.md', 'w', encoding='utf-8') as f:
                   f.write(new_content)
-              print("Badge layout collapsed.")
+              print("Badges wrapped in <td> and collapsed.")
           else:
-              print("No layout changes needed.")
+              print("No transformations needed.")
           EOF
 
       - name: Commit layout fix (if any)
@@ -58,6 +67,6 @@ jobs:
             echo "Nothing to commit."
           else
             git add README.md
-            git commit -m "chore(readme): collapse badge layout to single line"
+            git commit -m "chore(readme): wrap badges in <td> and collapse layout"
             git push
           fi
